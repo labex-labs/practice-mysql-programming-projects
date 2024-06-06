@@ -1,16 +1,13 @@
-
----
+# Practice MySQL Programming Projects
 
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/amNAVWgtDX5M.png">
 </div>
 
-## MySQL
-
 MySQL is an open-source relational database management system (RDBMS). Its name is a combination of "My", the name of co-founder Michael Widenius's daughter, and "SQL", the abbreviation for Structured Query Language.
 
-|   Index | Name                                                  | Level   | Project Link                                                                                                                            |
-|---------|-------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                                                             |
+|---------|-------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------|
 |      01 | Stress Test MySQL 8.0 With the TPC-C Benchmark        | ★★☆     | [🚀 Start Building](https://labex.io/courses/stress-test-mysql-8.0-with-the-tpc-c-benchmark)                                             |
 |      02 | Use Alibaba Cloud Prometheus to Monitor MySQL Data... | ★★★     | [🚀 Start Building](https://labex.io/courses/use-alibaba-cloud-prometheus-to-monitor-mysql-databases)                                    |
 |      03 | Multi Tenant Business System Solution With LIST DE... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/multi-tenant-business-system-solution-with-list-default-hash-partitioning-of-polardb-mysql) |
@@ -104,8 +101,9 @@ MySQL is an open-source relational database management system (RDBMS). Its name 
 |      91 | Wuxu Reform Duration Calculation                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-wuxu-reform-duration-calculation)                                                   |
 |      92 | Manage MySQL User Permissions                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-user-permission-management)                                                         |
 
-### More
+## More
 
-- 🔗 [MySQL Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#mysql)
 - 🔗 [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
+- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
