@@ -6,8 +6,8 @@
 
 MySQL is an open-source relational database management system (RDBMS). Its name is a combination of "My", the name of co-founder Michael Widenius's daughter, and "SQL", the abbreviation for Structured Query Language.
 
-|   Index | Name                                                  | Level   | Project Link                                                                                                                             |
-|---------|-------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                                                            |
+|---------|-------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------------------------------------|
 |      01 | Stress Test MySQL 8.0 With the TPC-C Benchmark        | ★★☆     | [🚀 Start Building](https://labex.io/courses/stress-test-mysql-8.0-with-the-tpc-c-benchmark)                                             |
 |      02 | Use Alibaba Cloud Prometheus to Monitor MySQL Data... | ★★★     | [🚀 Start Building](https://labex.io/courses/use-alibaba-cloud-prometheus-to-monitor-mysql-databases)                                    |
 |      03 | Multi Tenant Business System Solution With LIST DE... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/multi-tenant-business-system-solution-with-list-default-hash-partitioning-of-polardb-mysql) |
@@ -41,7 +41,7 @@ MySQL is an open-source relational database management system (RDBMS). Its name 
 |      31 | Comprehensive Operation of Conversion Functions       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-comprehensive-challenge-on-conversion-functions)                                    |
 |      32 | Database Constraint Design and Implementation         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-constraints-comprehensive)                                                          |
 |      33 | Countries and Codes in Region                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-countries-and-codes-in-region)                                                      |
-|      34 | Countries With 1 Billion+ Population                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-countries-with-1-billion+-population)                                               |
+|      34 | Countries With 1 Billion+ Population                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-countries-with-1-billion-population)                                                |
 |      35 | Accessing MySQL Database and Querying GNP             | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-country-gdp-query)                                                                  |
 |      36 | Country GNP and Population Query                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-country-gnp-and-population-query)                                                   |
 |      37 | Creating Stored Procedures for Course Data Retriev... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-course-statistics)                                                                  |
