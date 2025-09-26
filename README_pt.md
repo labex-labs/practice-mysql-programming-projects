@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/3JJy1bOBmUoZ.png">
 </div>
 
-MySQL é um sistema de gerenciamento de banco de dados relacional amplamente utilizado. Esta Skill Tree oferece um caminho de aprendizado abrangente para dominar o MySQL. É perfeito para iniciantes em bancos de dados, apresentando um roteiro estruturado para entender SQL, design de banco de dados e administração. Através de cursos práticos, sem vídeos, e exercícios práticos em um playground SQL interativo, você obterá experiência do mundo real em gerenciamento e consulta de banco de dados.
+Aprenda MySQL, um sistema de gerenciamento de banco de dados relacional amplamente utilizado, com este caminho de aprendizagem abrangente. Estes cursos de MySQL são projetados para iniciantes, fornecendo um roteiro estruturado para dominar SQL, design de banco de dados e administração. Ganhe experiência no mundo real através de tutoriais práticos (não em vídeo) e exercícios práticos em um ambiente interativo de SQL focado em gerenciamento e consulta de banco de dados.
 
 ## Exercícios
 
