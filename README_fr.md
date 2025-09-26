@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/3JJy1bOBmUoZ.png">
 </div>
 
-MySQL est un système de gestion de bases de données relationnelles largement utilisé. Cet arbre de compétences propose un parcours d'apprentissage complet pour maîtriser MySQL. Il est idéal pour les débutants en bases de données, offrant une feuille de route structurée pour comprendre SQL, la conception de bases de données et l'administration. Grâce à des cours pratiques sans vidéo et des exercices pratiques dans un environnement SQL interactif, vous acquerrez une expérience concrète en gestion de bases de données et en requêtes.
+Apprenez MySQL, un système de gestion de base de données relationnelle largement utilisé, grâce à ce parcours d'apprentissage complet. Ces cours MySQL sont conçus pour les débutants, offrant une feuille de route structurée pour maîtriser le SQL, la conception de bases de données et l'administration. Acquérez une expérience concrète grâce à des tutoriels pratiques (non-vidéo) et des exercices pratiques dans un environnement SQL interactif axé sur la gestion et l'interrogation de bases de données.
 
 ## Exercices
 
