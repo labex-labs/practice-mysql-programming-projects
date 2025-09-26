@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/3JJy1bOBmUoZ.png">
 </div>
 
-MySQL is a widely - used relational database management system. This Skill Tree offers a comprehensive learning path for mastering MySQL. It's perfect for database beginners, presenting a structured roadmap to understand SQL, database design, and administration. Through hands - on, non - video courses and practical exercises in an interactive SQL playground, you'll gain real - world experience in database management and querying.
+Learn MySQL, a widely-used relational database management system, with this comprehensive learning path. These MySQL courses are designed for beginners, providing a structured roadmap to master SQL, database design, and administration. Gain real-world experience through hands-on, non-video tutorials and practical exercises in an interactive SQL playground focused on database management and querying.
 
 ## Exercises
 
